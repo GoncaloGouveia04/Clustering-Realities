@@ -1,0 +1,13 @@
+#Name and features:
+#Name; father's title; mother's; paternal grandfather's; paternal grandmother's; maternal grandfather's; maternal grandmother's
+#Candidates:
+Francisquinha Capuleto; duque; condessa; arquiduque; condessa; visconde; viscondessa
+Esmeraldinha Montego; arquiduque; tiktokStar; duque; duquesa; arquiduque; baronesa
+Armandinho de Alfama; youtubeInfluencer; tiktokStar; plebeu; plebeia; plebeu; plebeia
+Stephanie Grimaldi; principe; plebeia; principe; princesa; plebeu; plebeia
+Alberto; rei; rainha; visconde; viscondessa; vencedoraFestivalRTP; apresentadoraFamaShow
+Jane Windsor; duque; princesa; arquiduque; arquiduquesa; conde; viscondessa
+Lili Lambrusca; tiktokStar; condessa; arquiduque; condessa; visconde; viscondessa
+Andrade; visconde; tiktokStar; condessa; condessa; plebeia; baronesa
+#Exemplars:
+void
