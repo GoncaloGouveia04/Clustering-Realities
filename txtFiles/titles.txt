@@ -1,0 +1,16 @@
+#degree; title name masculine; feminine
+14; imperador; imperatriz
+13; rei; rainha
+12; regente; regente
+11; principe; princesa
+10; tiktokStar; tiktokStar
+9; arquiduque; arquiduquesa
+8; duque; duquesa
+7; youtubeInfluencer; youtubeInfluencer
+6; conde; condessa
+5; visconde; viscondessa
+4; barao; baronesa
+3; vencedorFestivalRTP; vencedoraFestivalRTP
+2; apresentadorFamaShow; apresentadoraFamaShow
+1; escudeiro; escudeira
+0; plebeu; plebeia

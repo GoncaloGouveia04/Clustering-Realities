@@ -7,11 +7,11 @@
 
 import random
 import sys
-from readingFiles import readingFiles
-from constants import *
-from cluster import Cluster
-from example import *
-from candidate import *
+from pyFiles.readingFiles import readingFiles
+from pyFiles.constants import *
+from pyFiles.cluster import Cluster
+from pyFiles.example import *
+from pyFiles.candidate import *
 
 def minkowskiDistance(v1, v2, p):
     """
