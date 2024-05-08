@@ -12,6 +12,7 @@ from pyFiles.constants import *
 from pyFiles.cluster import Cluster
 from pyFiles.example import *
 from pyFiles.candidate import *
+from pyFiles.exemplar import *
 
 def minkowskiDistance(v1, v2, p):
     """
@@ -213,7 +214,7 @@ def runProgram(k, titlesFileName, candidatesFileName):
     #create a list of objects with the candidates
     exemplaresObjects = []
     for exemplar in exemplars:
-        exemplaresObjects.append(Candidate(exemplar, exemplar))
+        exemplaresObjects.append(Exemplar(exemplar, exemplar))
     #check if k is higher than the candidates lenght
     #if is higher, raise an exception because
     #the number of clusters to be formed cannot be higher than
