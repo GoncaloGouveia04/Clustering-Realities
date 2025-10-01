@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# 2022-2023 Programação 2 (LTI)
-# 60289 Gonçalo Gouveia
-
-
 
 # This module records the constants used in the application
-
 
 
 # Lines of each of the files header
@@ -22,7 +17,7 @@ NUM_CANDIDATES_PARENTAL_GRANDMOTHERS_TITLE = 4
 NUM_CANDIDATES_MATERNAL_GRANDFATHERS_TITLE = 5
 NUM_CANDIDATES_MATERNAL_GRANDMOTHERS_TITLE = 6
 
-# Numbers for the titles list 
+# Numbers for the titles list
 NUM_TITLES_DEGREE = 0
 NUM_TITLES_NAME_MASCULINE = 1
 NUM_TITLES_NAME_FEMININE = 2

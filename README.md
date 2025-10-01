@@ -1,12 +1,23 @@
 # Clustering-Realities
-Simple machine learning program using Python
 
-Input:
-To run this program type clusteringRealities.py k titles.txt inFile.txt in the console
+A simple data analysis program that uses unsupervised machine learning (clustering) in Python to group text data.
 
-k is a number of clusters thats gonna be created;
-titles.txt is the titles file that is available in the folder;
-inFile is a candidates file.
+Usage
 
-Output:
-File with the name candidates.txt wich contains every cluster made
+Run the program from the console with the following command:
+
+```bash
+python clusteringRealities.py k titles.txt inFile.txt
+```
+
+Arguments
+
+k – Number of clusters to create.
+
+titles.txt – A file containing titles (provided in the project folder).
+
+inFile.txt – A file containing candidate data to be clustered.
+
+Output
+
+The program generates an output file named candidates.txt, which contains all the clusters formed.
