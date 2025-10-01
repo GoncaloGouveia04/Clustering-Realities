@@ -7,7 +7,7 @@ Usage
 Run the program from the console with the following command:
 
 ```bash
-python clusteringRealities.py k titles.txt inFile.txt
+python main.py k titles.txt inFile.txt
 ```
 
 Arguments
